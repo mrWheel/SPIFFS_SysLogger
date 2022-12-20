@@ -1,7 +1,7 @@
 /*
 **  Program   : ESP_SysLogger
 */
-#define _FW_VERSION "v2.0.1 (20-12-2019)"
+#define _FW_VERSION "v2.0.1 (20-12-2022)"
 /*
 **  Copyright (c) 2019 .. 2023 Willem Aandewiel
 **
