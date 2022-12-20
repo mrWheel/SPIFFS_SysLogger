@@ -1,0 +1,28 @@
+###########################################
+# Syntax SPIFFS_SysLogger Library
+###########################################
+
+###########################################
+# Datatypes                      (KEYWORD1)
+###########################################
+
+ESPSL                             KEYWORD1
+SPIFFS_SysLogger                  KEYWORD1
+
+###########################################
+# Methods and Functions          (KEYWORD2)
+###########################################
+
+write                             KEYWORD2
+writef                            KEYWORD2
+writeDbg                          KEYWORD2
+buildD                            KEYWORD2
+startReading                      KEYWORD2
+readNextLine                      KEYWORD2
+readPreviousLine                  KEYWORD2
+dumpLogFile                       KEYWORD2
+removeSysLog                      KEYWORD2
+getLastLineID                     KEYWORD2
+setDebugLvl                       KEYWORD2
+
+
